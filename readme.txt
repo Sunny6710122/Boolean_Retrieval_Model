@@ -1,5 +1,4 @@
 # Boolean Retrieval Model in Information Retrieval 📖🔍
-
 This repository contains the implementation of a **Boolean Retrieval Model** for Information Retrieval (IR). The project was developed as **Programming Assignment No. 1** for the Information Retrieval (CS4051) course in Spring 2024.
 
 ## Objective 🎯
